@@ -1,0 +1,7 @@
+.task-list_wrapper{
+    margin: 1rem 0 0 0;
+    background-color: #477FE6;
+    padding: .5rem;
+    border-radius: 10px;
+    box-shadow: 2px -2px 13px 1px rgba(0,0,0,0.13) inset;
+}

@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-width: 500px;
+    min-height: 150px;
+    background-color: #9497E6;
+    border-radius: 15px;
+    box-shadow: 2px -2px 13px 15px rgba(0,0,0,0.13) inset;
+    -webkit-box-shadow: 2px -2px 13px 15px rgba(0,0,0,0.13) inset;
+    -moz-box-shadow: 2px -2px 13px 15px rgba(0,0,0,0.13) inset;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.task-wrapper{
+    padding: 2rem;
+}
+
